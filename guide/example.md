@@ -14,6 +14,12 @@ lang:   en
   <small>lacinia quis ***facilisis*** sed sapien</small>.
 - **Mauris varius** diam vitae arcu.
 
+<div style=font-size:0.8em>
+
+- Donec ultricies nisl ut felis, suspendisse potenti.
+
+</div>
+
 
 # Math formulas
 
@@ -164,7 +170,7 @@ interdum sem.
 
 # Columns 2
 
-<div class="column">
+<div class="column" style="width:65%">
 - Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed posuere
   interdum sem.
     - quisque ligula eros ullamcorper quis
@@ -172,7 +178,7 @@ interdum sem.
 - Mauris varius diam vitae arcu.
 </div>
 
-<div class="column">
+<div class="column" style="width:33%">
 ![](img/koulutusaula.jpg){width=50%}
 </div>
 
