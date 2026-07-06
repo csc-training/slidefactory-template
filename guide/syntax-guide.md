@@ -42,5 +42,5 @@ If you want, you can also separate slides explicitly by using a triple dash
 ## Example
 
 As a guide for correct syntax (or at least syntax that works), you can refer
-to the [example markdown presentation](../example.md). It should have examples
+to the [example markdown presentation](example.md). It should have examples
 of most common slide layouts etc.
